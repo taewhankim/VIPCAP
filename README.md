@@ -9,7 +9,7 @@
 ## ViPCap
 
 
-<img src="https://github.com/user-attachments/assets/23725d4a-84b6-457f-a2d0-3e738f5589d8" width="40%" height="40%">   <img src="https://github.com/user-attachments/assets/add93456-955a-4b9a-93a1-3aa3bd1fd13e" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/23725d4a-84b6-457f-a2d0-3e738f5589d8" width="40%" height="40%" >   <img src="https://github.com/user-attachments/assets/add93456-955a-4b9a-93a1-3aa3bd1fd13e" width="50%" height="50%" >
 
 ---
 ### Abstract
