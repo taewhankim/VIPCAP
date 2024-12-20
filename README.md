@@ -4,6 +4,7 @@
 
 ## News 🚀
 * [2024/12]: ViPCap is accepted at AAAI 2025 🔥
+* [2024/10]: ViPCap achieves SOTA in Lightweight image captioning & Plug-and-play ⚡
 
 ## ViPCap
 
